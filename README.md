@@ -8,4 +8,4 @@
     ``` 
 3. Run `CreateSchema2.sql` file in mySQL to create database `TRUONGHOC2`, then insert data into it.
 4. Run `query-db.py` to execute query, the output on the screen includes a table of query result and execution time, it also creates XML file containing query result in XML folder.
-5. Run `query-xml.py` to perform query on XML files using Xpath. The output includes the tables of querr result.
+5. Run `query-xml.py` to perform query on XML files using Xpath. The output includes the tables of query result.
