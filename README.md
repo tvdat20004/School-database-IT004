@@ -1,5 +1,5 @@
 # School-database-IT003
-Đồ án 2
+Database-final
 1. Run `CreateSchema1.sql` file in mySQL to create database `TRUONGHOC1`.
 2. Run `generate-db.cpp` to create SQL file containing insert queries in folder `insert_query`, then run all SQL files in that folder to insert data into database `TRUONGHOC1`
     ``` bash
